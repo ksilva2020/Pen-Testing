@@ -82,7 +82,6 @@ Using the Intruder feature of Burp, I manipulated the numbers to find informatio
 https://user-images.githubusercontent.com/98780052/203153148-71354afa-cc28-4683-9d65-07a803ef25e8.mp4
 
 
-Vulnerability #2
 
 
 ## Notes

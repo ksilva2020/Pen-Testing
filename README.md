@@ -87,3 +87,5 @@ https://user-images.githubusercontent.com/98780052/203153148-71354afa-cc28-4683-
 ## Notes
 
 To find most vulnerablities was difficult except for the IDOR. However, when I found similar cases it all became suddenly obvious. 
+
+## Gifs created with Camtasia (Camtasia.com)

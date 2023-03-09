@@ -41,7 +41,7 @@ Vulnerability #1: Username Enumeration
 Description:
 -When trying different usernames, the failed messages are different when the user name exists from when it doesn’t. 
 -When the username was existent, the warning was written in bold letters.
- -When analyzing the element, we see tow words that result from the failed logging: the one for the existent username message says “failure”; while the one with the nonexistent username says “failed”. 
+ -When analyzing the element, we see two words that result from the failed logging: the one for the existent username message says “failure”; while the one with the nonexistent username says “failed”. 
 <img src="green-vuln1.gif">
 
 
